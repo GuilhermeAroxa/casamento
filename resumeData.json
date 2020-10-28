@@ -1,0 +1,47 @@
+{
+  "main": {
+    "name":"Gui & Hanny",
+    "description":"18 de Abril de 2021 às 16:45",
+    "imagePrime":"prime.jpg",
+    "local":"Acesso pela Rodovia Anhanguera, Km 305,5 , Ribeirão Preto",
+    "contactmessage":"Deixe aqui sua mensagem para os noivos.",
+    "email": "guilherme.aroxa@gmail.com"
+  },
+  "resume":{
+    "giftList":[
+      {
+        "title":"Lista de Presentes",
+        "description":"Acesse para conferir nossa lista de presentes",
+        "link":"https://www.querodecasamento.com.br/lista-de-casamento/guihanny"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Caio e Gi",
+        "category":"Padrinhos da Hanny",
+        "image":"caiogi.png",
+        "url":"6FbsImNNM8g"
+      },
+      {
+        "title":"Caio e Gi",
+        "category":"Padrinhos da Hanny",
+        "image":"caiogi.png",
+        "url":"6FbsImNNM8g"
+      },
+      {
+        "title":"Caio e Gi",
+        "category":"Padrinhos da Hanny",
+        "image":"caiogi.png",
+        "url":"6FbsImNNM8g"
+      },
+      {
+        "title":"Caio e Gi",
+        "category":"Padrinhos da Hanny",
+        "image":"caiogi.png",
+        "url":"6FbsImNNM8g"
+      }
+    ]
+  }
+}
