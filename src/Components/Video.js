@@ -13,7 +13,7 @@ class Video extends Component {
          <div className="row">
             <div className="twelve columns">
               <div class="container-video">
-              <iframe src="//www.youtube.com/embed/2Vv-BfVoq4g" 
+              <iframe src="//www.youtube.com/embed/8GoRi6lDuOY" 
               frameborder="0" allowfullscreen class="video"></iframe>
               </div>
            </div>
