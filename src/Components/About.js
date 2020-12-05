@@ -17,7 +17,7 @@ class About extends Component {
     }
 
     return (
-      <section id="about">
+      <section id="localizacao">
       <div className="row">
          <div className="three columns">
             <img className="profile-pic"  src={primePic} alt="Nordic Giant Profile Pic" />

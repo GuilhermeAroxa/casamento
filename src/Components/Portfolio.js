@@ -40,7 +40,7 @@ class Portfolio extends Component {
     }
 
     return (
-      <section id="portfolio">
+      <section id="padrinhos">
 
         <div className="row">
 

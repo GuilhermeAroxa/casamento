@@ -8,7 +8,7 @@ class Video extends Component {
     }
 
     return (
-      <section id="video-section">
+      <section id="nossa-historia">
 
          <div className="row">
             <div className="twelve columns">
