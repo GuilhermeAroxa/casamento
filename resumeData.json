@@ -87,28 +87,58 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Caio e Gi",
-        "category":"Padrinhos da Hanny",
-        "image":"caiogi.png",
-        "url":"6FbsImNNM8g"
+        "title":"Vini e Amanda",
+        "category":"Padrinhos do Arôxa",
+        "image":"vini-amanda.webp",
+        "url":"H0F_sd3XymA"
       },
       {
         "title":"Caio e Gi",
         "category":"Padrinhos da Hanny",
-        "image":"caiogi.png",
+        "image":"caio-gi.webp",
         "url":"6FbsImNNM8g"
       },
       {
-        "title":"Caio e Gi",
-        "category":"Padrinhos da Hanny",
-        "image":"caiogi.png",
-        "url":"6FbsImNNM8g"
+        "title":"Igor e Marina",
+        "category":"Padrinhos do Arôxa",
+        "image":"igor-marina.webp",
+        "url":"bAPOTQ-ejyM"
       },
       {
-        "title":"Caio e Gi",
+        "title":"Yasmin",
+        "category":"Madrinha da Hanny",
+        "image":"yas.webp",
+        "url":"JuRr8Ga8Z60"
+      },
+      {
+        "title":"Victor e Thaissa",
+        "category":"Padrinhos do Arôxa",
+        "image":"vitin-thay.webp",
+        "url":"F6k4CfkjUEk"
+      },
+      {
+        "title":"Yuri",
+        "category":"Padrinho da Hanny",
+        "image":"yuri.webp",
+        "url":"eL3Onseo0rY"
+      },
+      {
+        "title":"Emanuel e Vivian",
+        "category":"Padrinhos da Hanny ",
+        "image":"manin-vivian.webp",
+        "url":"b3og2vbZDwY"
+      },
+      {
+        "title":"Wesley e Sarah",
+        "category":"Padrinhos do Arôxa",
+        "image":"wesley-sarah.webp",
+        "url":"PkvdSr01oF8"
+      },
+      {
+        "title":"Amanda e Gabriel",
         "category":"Padrinhos da Hanny",
-        "image":"caiogi.png",
-        "url":"6FbsImNNM8g"
+        "image":"amanda-biel.webp",
+        "url":"YrJ-VYKoc-E"
       }
     ]
   }
