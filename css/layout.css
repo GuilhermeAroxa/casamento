@@ -181,46 +181,46 @@ ul#nav li.current a { color: #fe6928; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
-#about {
+#localizacao {
    background: #000524;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #0762f9; }
+#localizacao a, #localizacao a:visited  { color: #fff; }
+#localizacao a:hover, #localizacao a:focus { color: #0762f9; }
 
-#about h2 {
+#localizacao h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
-#about p {
+#localizacao p {
    line-height: 30px;
    color: #ccc;
 }
-#about .profile-pic {
+#localizacao .profile-pic {
    position: relative;
    width: 120px;
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
-#about .download {
+#localizacao .contact-details { width: 41.66667%; }
+#localizacao .download {
    width: 58.33333%;
    padding-top: 6px;
 }
-#about .main-col { padding-right: 5%; }
-#about .download .button {
+#localizacao .main-col { padding-right: 5%; }
+#localizacao .download .button {
    margin-top: 6px;
    background: #444;
 }
-#about .download .button:hover {
+#localizacao .download .button:hover {
    background: #fff;
    color: #2B2B2B;
 }
-#about .download .button i {
+#localizacao .download .button i {
    margin-right: 15px;
    font-size: 20px;
 }
@@ -230,48 +230,48 @@ ul#nav li.current a { color: #fe6928; }
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
-#resume {
+#lista-de-presentes {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #0762f9; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#lista-de-presentes a, #lista-de-presentes a:visited  { color: #0762f9; }
+#lista-de-presentes a:hover, #lista-de-presentes a:focus { color: #313131; }
 
-#resume h1 {
+#lista-de-presentes h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#resume h1 span {
+#lista-de-presentes h1 span {
    border-bottom: 3px solid #0762f9;
    padding-bottom: 6px;
 }
-#resume h3 {
+#lista-de-presentes h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#lista-de-presentes .header-col { padding-top: 9px; }
+#lista-de-presentes .main-col { padding-right: 10%; }
 
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#resume .info {
+#lista-de-presentes .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#resume .info span {
+#lista-de-presentes .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
-#resume .date {
+#lista-de-presentes .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
@@ -411,12 +411,12 @@ ul#nav li.current a { color: #fe6928; }
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
 
-#portfolio {
+#padrinhos {
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
 }
-#portfolio h1 {
+#padrinhos h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
@@ -792,7 +792,7 @@ call-to-action .button {
 /* h. Contact Section
 /* ------------------------------------------------------------------ */
 
-#video-section {
+#nossa-historia {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
