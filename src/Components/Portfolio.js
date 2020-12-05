@@ -24,7 +24,7 @@ class Portfolio extends Component {
           <div key={projects.title} className="columns portfolio-item">
             <div className="item-wrap">
               <a href="" title={projects.title} onClick={(e) => {e.preventDefault(); this.setState({ videoId: projects.url, open: true })}}>
-                <img alt={projects.title} src={projectImage} />
+                <img alt={projects.title} src={projectImage} className="pic-size" />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>{projects.title}</h5>
@@ -33,6 +33,7 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
+            <div className="clearfix"></div>
           </div>
         )
       })
