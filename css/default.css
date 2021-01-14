@@ -803,6 +803,7 @@ properly.
 	text-align: center !important;
 }
 
-
-
+.description-use-background {
+	background-color: #191919 !important;
+}
 
