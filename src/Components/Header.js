@@ -16,7 +16,7 @@ class Header extends Component {
     }
 
     return (
-      <header id="home" style={{backgroundImage:`url(${wallpaperImage})`}}>
+      <header id="home" style={{backgroundImage:`url(${wallpaperImage})`, backgroundRepeat:`no-repeat`, backgroundSize: `100%`, backgroundPosition:`top left`}}>
       
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
@@ -41,7 +41,7 @@ class Header extends Component {
       </div>
 
       <p className="scrolldown">
-         <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
+         <a className="smoothscroll" href="#padrinhos"><i className="icon-down-circle"></i></a>
       </p>
 
    </header>
